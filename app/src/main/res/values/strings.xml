@@ -3,10 +3,10 @@
     <!-- TODO: Remove or change this placeholder text -->
 
 
-    <string name="onCreate">"AIActivity: \n Create Executed"</string>
-    <string name="onStart">"Activity Started"</string>
-    <string name="onStop">"Activity Stopped"</string>
-    <string name="onDestroy">Activity Destroyed</string>
+    <string name="onCreate">"AIActivity: \n Create Executed."</string>
+    <string name="onStart">"Activity Started."</string>
+    <string name="onStop">"Activity Stopped."</string>
+    <string name="onDestroy">Activity Destroyed.</string>
     <string name="onCreate2">"ARActivity: \n Create Executed"</string>
     <string name="onStart2">"Activity Started"</string>
     <string name="onStop2">"Activity Stopped"</string>
