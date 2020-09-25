@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="onCreate">AIActivity: \n a été créé</string>
-    <string name="onStart">a été lancé</string>
-    <string name="onStop">a été arrêté</string>
-    <string name="onDestroy">a été détruit</string>
-    <string name="onCreate2">ArActivity: \n a été créé</string>
-    <string name="onStart2">a été lancé</string>
-    <string name="onStop2">a été arrêté</string>
-    <string name="onDestroy2">a été détruit</string>
-    <string name="onCreate3" >MainActivity: \n a été créé</string>
-    <string name="onStart3">a été lancé</string>
-    <string name="onStop3" >a été arrêté</string>
-    <string name="onDestroy3">a été détruit</string>
+    <string name="onCreate">AIActivity: \n a été créé.</string>
+    <string name="onStart">a été lancé.</string>
+    <string name="onStop">a été arrêté.</string>
+    <string name="onDestroy">a été détruit.</string>
+    <string name="onCreate2">ArActivity: \n a été créé.</string>
+    <string name="onStart2">a été lancé.</string>
+    <string name="onStop2">a été arrêté.</string>
+    <string name="onDestroy2">a été détruit.</string>
+    <string name="onCreate3" >MainActivity: \n a été créé.</string>
+    <string name="onStart3">a été lancé.</string>
+    <string name="onStop3" >a été arrêté.</string>
+    <string name="onDestroy3">a été détruit.</string>
 
 </resources>

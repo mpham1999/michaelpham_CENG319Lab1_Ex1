@@ -7,13 +7,13 @@
     <string name="onStart">"Activity Started."</string>
     <string name="onStop">"Activity Stopped."</string>
     <string name="onDestroy">Activity Destroyed.</string>
-    <string name="onCreate2">"ARActivity: \n Create Executed"</string>
-    <string name="onStart2">"Activity Started"</string>
-    <string name="onStop2">"Activity Stopped"</string>
-    <string name="onDestroy2">Activity Destroyed</string>
-    <string name="onCreate3" >"MainActivity: \n Create Executed"</string>
-    <string name="onStart3">"Activity Started"</string>
-    <string name="onStop3">"Activity Stopped"</string>
-    <string name="onDestroy3">Activity Destroyed</string>
+    <string name="onCreate2">"ARActivity: \n Create Executed."</string>
+    <string name="onStart2">"Activity Started."</string>
+    <string name="onStop2">"Activity Stopped."</string>
+    <string name="onDestroy2">Activity Destroyed.</string>
+    <string name="onCreate3" >"MainActivity: \n Create Executed."</string>
+    <string name="onStart3">"Activity Started."</string>
+    <string name="onStop3">"Activity Stopped."</string>
+    <string name="onDestroy3">Activity Destroyed.</string>
 
 </resources>
